@@ -20,3 +20,5 @@ The only allowed client side compromise is speed.
 4. Each language should stick to one thing, and nothing else (if possible), and the server should be as modular as possible. You can use a language to coordinate all other ones, but only if the language is *not* intended to do that.
 
 5. Make everything as stupid and horrifying as possible, but still functional.
+
+6. No-extention/`.txt` files can be used to hold code (mainly html and css), but another language must parse it into actual usable code.
