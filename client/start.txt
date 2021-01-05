@@ -1,0 +1,2 @@
+there shouldn't really be any code here as the server should
+do all that, but this folder is here for notes and other things
