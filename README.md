@@ -1,6 +1,8 @@
 # HorribleForum
 A horrifying complex and stupid forum client and server
 
+![](https://img.shields.io/badge/Progress-none-informational?style=flat&logo=%3Cstatus%3E&logoColor=white&color=ff564a)
+
 # Goal
 Create a forum that functions fine on the client side while
 having a back end server using as many languages as possible,
