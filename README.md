@@ -22,3 +22,6 @@ The only allowed client side compromise is speed.
 5. Make everything as stupid and horrifying as possible, but still functional.
 
 6. No-extention/`.txt` files can be used to hold code (mainly html and css), but another language must parse it into actual usable code.
+
+7. If possible, each language should be ran as an individual process, and communicate with others through `.json` or `.yml`. Each language can have a section for that, along with what the language is actually being used for.
+
