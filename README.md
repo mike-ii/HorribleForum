@@ -13,7 +13,7 @@ The only allowed client side compromise is speed.
 
 1. Absolutely no `.html` files. HTML can be embedded in another language, but `.html` files are not allowed.
 
-2. Files must be used as databases, while *actual* databases can only be used for language-language communication. (Files cannot be used to communicate)
+2. Files must be used as databases, while *actual* databases can only be used for language-language communication. (Non database files cannot be used to communicate)
 
 3. You can only use the *strength* of a language if it is the only option, but it must be embedded in another language if at all possible (talking to you css).
 
