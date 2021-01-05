@@ -27,3 +27,6 @@ The only allowed client side compromise is speed.
 
 7. If possible, each language should be ran as an individual process, and communicate with others through `.json` or `.yml`. Each language can have a section for that, along with what the language is actually being used for.
 
+# Authors & Contribution
+
+[mike-ii](https://github.com/mike-ii) Created repo and readme (so far)
